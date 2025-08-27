@@ -3,3 +3,7 @@ venv/Lib
 
 screenshots/
 
+__pycache__
+
+_pycache_
+
